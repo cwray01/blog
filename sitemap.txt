@@ -1,3 +1,4 @@
+https://cwray01.github.io/blog/2025/03/30/Test-From-Hexo-Admin/
 https://cwray01.github.io/blog/categories/index.html
 https://cwray01.github.io/blog/tags/index.html
 https://cwray01.github.io/blog/about/index.html

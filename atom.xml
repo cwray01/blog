@@ -6,7 +6,7 @@
   <link href="https://cwray01.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://cwray01.github.io/blog/"/>
-  <updated>2024-06-29T06:50:47.469Z</updated>
+  <updated>2025-03-30T03:44:43.194Z</updated>
   <id>https://cwray01.github.io/blog/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test From Hexo Admin</title>
+    <link href="https://cwray01.github.io/blog/2025/03/30/Test-From-Hexo-Admin/"/>
+    <id>https://cwray01.github.io/blog/2025/03/30/Test-From-Hexo-Admin/</id>
+    <published>2025-03-30T03:44:22.000Z</published>
+    <updated>2025-03-30T03:44:43.194Z</updated>
+    
+    <content type="html"><![CDATA[<p>This is a Test from Hexo Admin, if you can see it, proves I did it correct.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;This is a Test from Hexo Admin, if you can see it, proves I did it correct.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>ONE MORE HELLO</title>
