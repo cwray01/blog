@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cwray01.github.io/blog/categories/index.html</loc>
+    
+    <lastmod>2025-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cwray01.github.io/blog/tags/index.html</loc>
+    
+    <lastmod>2025-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cwray01.github.io/blog/about/index.html</loc>
     
     <lastmod>2024-07-13</lastmod>
@@ -40,7 +58,7 @@
 
   <url>
     <loc>https://cwray01.github.io/blog</loc>
-    <lastmod>2025-03-09</lastmod>
+    <lastmod>2025-03-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +66,7 @@
   
   <url>
     <loc>https://cwray01.github.io/blog/tags/memo/</loc>
-    <lastmod>2025-03-09</lastmod>
+    <lastmod>2025-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
